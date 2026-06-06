@@ -253,6 +253,7 @@ A curated list of awesome Model Context Protocol (MCP) servers.
 - [GoPlausible/algorand-mcp](https://github.com/GoPlausible/algorand-mcp) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16"/> ☁️ - Comprehensive tools for interacting with Algorand blockchain
 - [hive-intel/hive-crypto-mcp](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
+- [twzrd-sol/twzrd-agent-intel](https://github.com/twzrd-sol/wzrd-final/tree/main/packages/twzrd-agent-intel) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> ☁️ - Solana-native agent trust scoring via x402 micropayments — free on-chain preflight checks and paid signed trust receipts settled in under 1 second at intel.twzrd.xyz/mcp
 ### 🛠️ <a name="utilities"></a>Utilities
 
 - [githejie/mcp-server-calculator](https://github.com/githejie/mcp-server-calculator) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16"/> 🏠 - Calculator for precise numerical calculations
